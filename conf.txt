@@ -1,2 +1,3 @@
 Hi I am your trainer....
+echo "welcome to Devops"
 echo"sample conf file":
